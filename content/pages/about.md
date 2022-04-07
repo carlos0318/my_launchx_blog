@@ -5,17 +5,8 @@ menu:
     name: "AboutMe"
 ---
 
-## Who am I
+## Who am I?
 
 Hola, aquí vas a leer un poco sobre mi 🤩
 
-> Excidit gente, si orat suo quaeque dura Calydon nata? Pars auro post stetit
-> adfusique imis amplexus. Agmina per fabricator
-> mittere Erymanthon habetque tot.
-
-**Cineres Nile ipsa** origine discurrunt adest Unde, et quem clausus, imo,
-virens quoque tales, potuit. Ingentes insilit corpore nutricis praebebat roganti
-licuit. Denique a vestros adulantum in bella lina parte et arte generi di igitur
-quis, digitis pedes. Cum resonant tamen, namque in anxia. Non nostri trahens
-ancora.
-
+Mi nombre es Carlos, soy egresado de la carrera de Ingenieria en Sistemas Computacionales en el ITP. Me gusta aprender cosas nuevas, leer y escuchar musica. Actualmente me encuentro tomando cursos para mejorar mis habilidades en el desarrollo web.
